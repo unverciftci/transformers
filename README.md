@@ -17,3 +17,7 @@ https://colab.research.google.com/github/hirotomusiker/schwert_colab_data_storag
 https://theaisummer.com/attention/
 
 https://theaisummer.com/vision-language-models/
+
+https://transformer-circuits.pub/2021/framework/index.html
+
+https://arxiv.org/pdf/2207.09238.pdf
