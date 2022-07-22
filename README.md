@@ -1,5 +1,7 @@
 # transformers
 
+https://github.com/lucidrains/attention
+
 https://www.borealisai.com/en/blog/tutorial-14-transformers-i-introduction/
 
 https://e2eml.school/transformers.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_363
