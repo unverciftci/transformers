@@ -23,3 +23,7 @@ https://theaisummer.com/vision-language-models/
 https://transformer-circuits.pub/2021/framework/index.html
 
 https://arxiv.org/pdf/2207.09238.pdf
+
+http://www.columbia.edu/~jsl2239/transformers.html
+
+https://johnthickstun.com/docs/transformers.pdf
