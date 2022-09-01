@@ -1,5 +1,7 @@
 # transformers
 
+https://peterbloem.nl/blog/transformers
+
 https://github.com/lucidrains/attention
 
 https://www.borealisai.com/en/blog/tutorial-14-transformers-i-introduction/
